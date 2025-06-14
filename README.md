@@ -1,6 +1,8 @@
 ## 👨‍💻 About Me
 
-Hi, I’m **Sachin Nishad** – a passionate **Penetration Tester** & **Cybersecurity Professional** pursuing BCA (Cloud & Security). I specialize in **Offensive Security** through hands-on labs, certifications, and real-world research.
+Hi, I’m **Sachin Nishad**, a passionate Offensive Security Professional pursuing a BCA in Cloud & Security. I specialize in penetration testing, red teaming, and real-world threat simulation, with hands-on experience in lab environments, capture-the-flag (CTF) competitions, and responsible disclosures.
+
+On a mission to solve real-world security challenges and help build safer digital ecosystems.
 
 🏆 Ranked Top 5% on **TryHackMe** | Active on **HTB**, CTFs 
 🔍 Core Focus: Web Security, AD Exploitation, Red Team Operations
@@ -11,13 +13,13 @@ Hi, I’m **Sachin Nishad** – a passionate **Penetration Tester** & **Cybersec
 
 | Area                        | Skills/Tools                                                                 |
 |-----------------------------|------------------------------------------------------------------------------|
-| 🔓 Web Pentesting           | OWASP Top 10, API flaws, authentication bypass                                 |
-| 🧱 AD Exploitation          | Kerberoasting, Pass-the-Hash, lateral movement                              |
-| 🌐 Network Attacks          | Nmap, Nessus, Metasploit, pivoting                                          |
-| 🐧 Linux Escalation         | LPE via misconfigs, SUIDs, kernels                                          |
-| 🐞 Bug Hunting              | Recon, fuzzing, vulnerability disclosure                                    |
-| ⚙️ Security Automation      | Python/PowerShell tools, custom scripts                                     |
-| 📄 Report Writing           | Clear findings, risk-based recommendations                                  |
+| 🔓 Web Pentesting           | Identifying OWASP Top 10 issues, API flaws, authentication bypasses          |
+| 🧱 AD Exploitation          | Performing Kerberoasting, Pass-the-Hash, lateral movement                    |
+| 🌐 Network Attacks          | Conducting scans with Nmap/Nessus, pivoting via Metasploit                  |
+| 🐧 Linux Escalation         | Exploiting misconfigs, SUIDs, vulnerable kernels                              |
+| 🐞 Bug Hunting              | Recon, fuzzing endpoints, and submitting responsible disclosures            |
+| ⚙️ Security Automation      | Developing tools in Python/PowerShell for offensive use                      |
+| 📄 Report Writing           | Documenting findings with risk ratings and actionable remediations          |
 
 📚 [Pentest Codex – Offensive Security Notes](https://sachin403.gitbook.io/pentestcodex)
 
@@ -27,32 +29,37 @@ Hi, I’m **Sachin Nishad** – a passionate **Penetration Tester** & **Cybersec
 
 | Name                    | Description                                                     |
 |-------------------------|-----------------------------------------------------------------|
-| ⚙️ ReconStorm            | Automated recon tool for subdomain + port enumeration          |
-| 📘 HTB-CPTS-Notes        | Comprehensive notes & labs for CPTS exam prep                 |
-| 🧰 Bug-Bounty-Tools      | Curated toolbox for reconnaissance, scanning, and fuzzing     |
-| 🧠 AD Attack Playbook    | Collection of AD TTPs + custom scripts for red team simulation |
-| 🧱 Sysinternals Suite     | Organized toolkit for Windows forensics/exploitation          |
+| ⚙️ [ReconStorm](https://github.com/sachin403/ReconStorm-repo)            | Automated tool for **initial reconnaissance and footprinting**, performing subdomain enumeration & port scanning.          |
+| 📘 [HTB-CPTS-Notes](https://github.com/sachin403/HTB-CPTS-Notes-repo)        | Structured CPTS prep, **offering comprehensive lab walkthroughs** and key concepts.                 |
+| 🧰 [Bug-Bounty-Tools](https://github.com/sachin403/Bug-Bounty-Tools-repo)      | A curated **toolkit to streamline bug bounty workflows**, including reconnaissance, directory brute force, and fuzzing.               |
+| 🧠 [AD Attack Playbook](https://github.com/sachin403/AD-Attack-Playbook-repo)    | Collection of AD attacks + scripts **to simulate realistic Red Team scenarios** and understand common exploitation paths.                      |
+| 🧱 [Sysinternals Suite](https://github.com/sachin403/Sysinternals-Suite-repo)   | Curated toolkit for Windows exploitation, live analysis, and post-exploitation.          |
 
 ---
 
-## 🧾 Certifications
+## 🎓 Certifications
 
-* 🛡️ **eJPT** – INE Junior Pentester
-* 🎯 **CPTS** – (In Progress) HTB Specialist
-* 🧠 **C3SA** – Certified Cyber Security Analyst
-* 🔐 **CNSP** – Certified Network Security Practitioner
+**Offensive Security**
+* 🛡️ **eJPT** – INE eLearnSecurity Junior Penetration Tester
+* 🎯 **CPTS** – (In Progress) Hack The Box Certified Penetration Testing Specialist
+
+**Defensive & Cloud**
 * ☁️ **ICCA** – INE Certified Cloud Associate
+* 🔐 **CNSP** – Certified Network Security Practitioner (SecOps)
+
+**Other Notables**
+* 🧠 **C3SA** – Certified Cyber Security Analyst (CyberWarFare Labs)
 * 🧰 **EHE**, **TryHackMe Jr. Pentester Cert**
 
 ---
 
-## 📚 Learning Now
+## 📚 Currently Exploring
 
-* 🧨 **OSCP Labs** – Advanced pentesting, lateral movement
-* 🔍 **Advanced Web** – SSTI, deserialization, logic flaws
-* 🧱 **AD Red Teaming** – Sophisticated AD attacks
+* 🧨 **OSCP Labs** – Buffer overflows, privilege escalation, pivoting
+* 🔍 **Advanced Web** – Business logic flaws, SSRF, SSTI, deserialization
+* 🧱 **AD Red Teaming** – DCSync, ACL abuse, domain persistence
 * ☁️ **Cloud Hacking** – AWS, Azure, GCP
-* 🐳 **Container Security** – Docker & K8s attack vectors
+* 🐳 **Container Security** – Privilege escalation in Docker/K8s
 
 ---
 
@@ -74,12 +81,14 @@ Hi, I’m **Sachin Nishad** – a passionate **Penetration Tester** & **Cybersec
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
 #### 🐧 Operating Systems
 
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
 ![Parrot OS](https://img.shields.io/badge/Parrot_OS-1F1F1F?style=for-the-badge&logo=parrotsecurity&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Debian](https://img.shields.io/badge/Debian-A80030?style=for-the-badge&logo=debian&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 #### 🛡️ Security Tools
@@ -98,8 +107,10 @@ Hi, I’m **Sachin Nishad** – a passionate **Penetration Tester** & **Cybersec
 ![CrackMapExec](https://img.shields.io/badge/CrackMapExec-009688?style=for-the-badge&logo=crackmapexec&logoColor=white)
 ![SQLMap](https://img.shields.io/badge/SQLMap-663399?style=for-the-badge&logo=sqlmap&logoColor=white)
 ![Gobuster](https://img.shields.io/badge/Gobuster-0C82D7?style=for-the-badge&logo=gobuster&logoColor=white)
-![MITRE ATT&CK](https://img.shields.io/badge/MITRE_ATT&CK-003366?style=for-the-badge&logo=mitre-att-ck&logoColor=white)
-![NIST](https://img.shields.io/badge/NIST-005696?style=for-the-badge&logo=nist&logoColor=white)
+![ffuf](https://img.shields.io/badge/ffuf-2C2C2C?style=for-the-badge&logoColor=white)
+![Amass](https://img.shields.io/badge/Amass-4D4D4D?style=for-the-badge&logoColor=white)
+![dirsearch](https://img.shields.io/badge/dirsearch-666666?style=for-the-badge&logoColor=white)
+![PEASS-ng](https://img.shields.io/badge/PEASS--ng-888888?style=for-the-badge&logoColor=white)
 ![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
 ![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
@@ -107,7 +118,7 @@ Hi, I’m **Sachin Nishad** – a passionate **Penetration Tester** & **Cybersec
 
 #### ☁️ Cloud Platforms
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Microsoft Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
@@ -115,7 +126,7 @@ Hi, I’m **Sachin Nishad** – a passionate **Penetration Tester** & **Cybersec
 ![ScoutSuite](https://img.shields.io/badge/ScoutSuite-267980?style=for-the-badge&logo=scoutsuite&logoColor=white)
 ![Prowler](https://img.shields.io/badge/Prowler-4D78E0?style=for-the-badge&logo=prowler&logoColor=white)
 
-#### 🔁 DevOps & Automation
+#### 🔁 DevOps & Infrastructure
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
@@ -146,6 +157,11 @@ Hi, I’m **Sachin Nishad** – a passionate **Penetration Tester** & **Cybersec
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
 
+#### ⚖️ Security Frameworks & Standards
+
+![MITRE ATT&CK](https://img.shields.io/badge/MITRE_ATT&CK-003366?style=for-the-badge&logo=mitre-att-ck&logoColor=white)
+![NIST](https://img.shields.io/badge/NIST-005696?style=for-the-badge&logo=nist&logoColor=white)
+
 ---
 
 ## 🧑‍💻 Platforms
@@ -159,7 +175,7 @@ Hi, I’m **Sachin Nishad** – a passionate **Penetration Tester** & **Cybersec
 ## 📊 GitHub Highlights
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sachinn403&theme=dark&hide_border=false&include_all_commits=true&count_private=true)  
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=sachinn403&theme=dark&hide_border=false)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sachinn403&theme=dark&hide_border=false)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sachinn403&theme=dark&layout=compact&include_all_commits=true&count_private=true)
 
 ---
@@ -171,6 +187,12 @@ Hi, I’m **Sachin Nishad** – a passionate **Penetration Tester** & **Cybersec
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/sachinn403)  
 [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/sachin403/)  
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1185182924971200552)
+
+---
+
+### 📧 Contact
+
+* **Email:** [sachinnishad.ceh@gmail.com](mailto:sachinnishad.ceh@gmail.com)
 
 ---
 
