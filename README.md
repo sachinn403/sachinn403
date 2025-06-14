@@ -1,10 +1,11 @@
 ## 👨‍💻 About Me
 
-Hi, I’m **Sachin Nishad**, a passionate Offensive Security Professional pursuing a BCA in Cloud & Security. I specialize in penetration testing, red teaming, and real-world threat simulation, with hands-on experience in lab environments, capture-the-flag (CTF) competitions, and responsible disclosures.
+Hi, I’m **Sachin Nishad** – a passionate **Penetration Tester** & **Cybersecurity Professional** pursuing BCA (Cloud & Security). I specialize in **Offensive Security** through hands-on labs, certifications, and real-world research.
 
 On a mission to solve real-world security challenges and help build safer digital ecosystems.
 
-🏆 Ranked Top 5% on **TryHackMe** | Active on **HTB**, CTFs 
+🏆 Ranked Top 5% on **TryHackMe** | Active on **HTB**, CTFs
+
 🔍 Core Focus: Web Security, AD Exploitation, Red Team Operations
 
 ---
