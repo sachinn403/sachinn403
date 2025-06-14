@@ -35,15 +35,14 @@ On a mission to solve real-world security challenges and help build safer digita
 
 ## 🧪 Projects
 
-**<h4 align="center">🚨 IMPORTANT: Please ensure all links below are replaced with the actual, working URLs to your GitHub project repositories! 🚨</h4>**
 
 | Name                    | Description                                                     |
 |-------------------------|-----------------------------------------------------------------|
-| ⚙️ [ReconStorm](https://github.com/sachin403/ReconStorm)            | Automated tool for **initial reconnaissance and footprinting**, performing subdomain enumeration & port scanning.          |
-| 📘 [HTB-CPTS-Notes](https://github.com/sachin403/HTB-CPTS-Notes)        | Structured CPTS prep, **offering comprehensive lab walkthroughs** and key concepts.                 |
-| 🧰 [Bug-Bounty-Tools](https://github.com/sachin403/Bug-Bounty-Tools)      | A curated **toolkit to streamline bug bounty workflows**, including reconnaissance, directory brute force, and fuzzing.               |
-| 🧠 [AD Attack Playbook](https://github.com/sachin403/AD-Attack)    | Collection of AD attacks + scripts **to simulate realistic Red Team scenarios** and understand common exploitation paths.                      |
-| 🧱 [Sysinternals Suite](https://github.com/sachin403/Sysinternals-Suite)   | Curated toolkit for Windows exploitation, live analysis, and post-exploitation.          |
+| ⚙️ [ReconStorm](https://github.com/sachinn403/ReconStorm)            | Automated tool for **initial reconnaissance and footprinting**, performing subdomain enumeration & port scanning.          |
+| 📘 [HTB-CPTS-Notes](https://github.com/sachinn403/HTB-CPTS-Notes)        | Structured CPTS prep, **offering comprehensive lab walkthroughs** and key concepts.                 |
+| 🧰 [Bug-Bounty-Tools](https://github.com/sachinn403/Bug-Bounty-Tools)      | A curated **toolkit to streamline bug bounty workflows**, including reconnaissance, directory brute force, and fuzzing.               |
+| 🧠 [AD Attack Playbook](https://github.com/sachinn403/AD-Attack)    | Collection of AD attacks + scripts **to simulate realistic Red Team scenarios** and understand common exploitation paths.                      |
+| 🧱 [Sysinternals Suite](https://github.com/sachinn403/Sysinternals-Suite)   | Curated toolkit for Windows exploitation, live analysis, and post-exploitation.          |
 
 ---
 
