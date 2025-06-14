@@ -1,10 +1,17 @@
+<h1 align="center">Hi 👋, I'm Sachin Nishad</h1>
+<h3 align="center">Offensive Security Professional | Red Teamer | Penetration Tester | Capture The Flag </h3>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sachinn403&label=Profile%20views&color=0e75b6&style=flat" alt="profile-views" />
+</p>
+
 ## 👨‍💻 About Me
 
-Hi, I’m **Sachin Nishad** – a passionate **Penetration Tester** & **Cybersecurity Professional** pursuing BCA (Cloud & Security). I specialize in **Offensive Security** through hands-on labs, certifications, and real-world research.
+I’m **Sachin Nishad**, a **passionate Offensive Security Professional** pursuing a **BCA in (Cloud & Security)**. I specialize in penetration testing, red teaming, and real-world threat simulation, with hands-on experience in lab environments, capture-the-flag (CTF) competitions, and responsible disclosures.
 
 On a mission to solve real-world security challenges and help build safer digital ecosystems.
 
-🏆 Ranked Top 5% on **TryHackMe** | Active on **HTB**, CTFs
+🏆 Ranked Top 5% on **TryHackMe** | Active on **HTB**, CTFs 
 
 🔍 Core Focus: Web Security, AD Exploitation, Red Team Operations
 
@@ -28,13 +35,15 @@ On a mission to solve real-world security challenges and help build safer digita
 
 ## 🧪 Projects
 
+**<h4 align="center">🚨 IMPORTANT: Please ensure all links below are replaced with the actual, working URLs to your GitHub project repositories! 🚨</h4>**
+
 | Name                    | Description                                                     |
 |-------------------------|-----------------------------------------------------------------|
-| ⚙️ [ReconStorm](https://github.com/sachin403/ReconStorm-repo)            | Automated tool for **initial reconnaissance and footprinting**, performing subdomain enumeration & port scanning.          |
-| 📘 [HTB-CPTS-Notes](https://github.com/sachin403/HTB-CPTS-Notes-repo)        | Structured CPTS prep, **offering comprehensive lab walkthroughs** and key concepts.                 |
-| 🧰 [Bug-Bounty-Tools](https://github.com/sachin403/Bug-Bounty-Tools-repo)      | A curated **toolkit to streamline bug bounty workflows**, including reconnaissance, directory brute force, and fuzzing.               |
-| 🧠 [AD Attack Playbook](https://github.com/sachin403/AD-Attack-Playbook-repo)    | Collection of AD attacks + scripts **to simulate realistic Red Team scenarios** and understand common exploitation paths.                      |
-| 🧱 [Sysinternals Suite](https://github.com/sachin403/Sysinternals-Suite-repo)   | Curated toolkit for Windows exploitation, live analysis, and post-exploitation.          |
+| ⚙️ [ReconStorm](https://github.com/sachin403/ReconStorm)            | Automated tool for **initial reconnaissance and footprinting**, performing subdomain enumeration & port scanning.          |
+| 📘 [HTB-CPTS-Notes](https://github.com/sachin403/HTB-CPTS-Notes)        | Structured CPTS prep, **offering comprehensive lab walkthroughs** and key concepts.                 |
+| 🧰 [Bug-Bounty-Tools](https://github.com/sachin403/Bug-Bounty-Tools)      | A curated **toolkit to streamline bug bounty workflows**, including reconnaissance, directory brute force, and fuzzing.               |
+| 🧠 [AD Attack Playbook](https://github.com/sachin403/AD-Attack)    | Collection of AD attacks + scripts **to simulate realistic Red Team scenarios** and understand common exploitation paths.                      |
+| 🧱 [Sysinternals Suite](https://github.com/sachin403/Sysinternals-Suite)   | Curated toolkit for Windows exploitation, live analysis, and post-exploitation.          |
 
 ---
 
@@ -173,11 +182,22 @@ On a mission to solve real-world security challenges and help build safer digita
 
 ---
 
-## 📊 GitHub Highlights
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sachinn403&show_icons=true&theme=tokyonight" height="200"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sachinn403&layout=compact&theme=tokyonight" height="200"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sachinn403&theme=tokyonight" height="200"/>
+</p>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sachinn403&theme=dark&hide_border=false&include_all_commits=true&count_private=true)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sachinn403&theme=dark&hide_border=false)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sachinn403&theme=dark&layout=compact&include_all_commits=true&count_private=true)
+### 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=sachinn403&theme=onestar&margin-w=15&no-frame=true" />
+</p>
+
+### 📈 Contribution Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sachinn403&radius=16&theme=react-dark&area=true" height="250"/>
+</p>
 
 ---
 
@@ -196,5 +216,3 @@ On a mission to solve real-world security challenges and help build safer digita
 * **Email:** [sachinnishad.ceh@gmail.com](mailto:sachinnishad.ceh@gmail.com)
 
 ---
-
-[![](https://visitcount.itsvg.in/api?id=sachinn403&icon=0&color=0)](https://visitcount.itsvg.in)
